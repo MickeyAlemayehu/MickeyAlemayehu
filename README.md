@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mickey Alemayehu
+# 👋 Hi, I'm Michael Alemayehu
 
 🎓 I'm a **third-year Computer Science student** at **Addis Ababa University**  
 🔧 Currently a **Backend Development student** at **ALX**  
